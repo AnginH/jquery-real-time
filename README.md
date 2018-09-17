@@ -1,2 +1,2 @@
 # jquery-real-time
-Get real time width jquery!
+Get real time with jquery!
